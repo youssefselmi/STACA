@@ -1,0 +1,370 @@
+/***********************************************************
+
+1. CSS RESET
+
+2. VARIABLES
+2.1 GRADIENTS
+2.2 CSS3 TRANSITIONS
+
+3. GLOBAL THEME STYLES
+
+4. TYPOGRAPHY
+4.1 HEADINGS
+4.2 PARAGRAPHS & LISTS
+4.3 LINKS
+4.4 PRODUCT ATTRIBUTES (name, description, price)
+4.5 RTE
+
+5. FORMS & COMPONENTS
+5.2 ALERTS
+5.3 BUTTONS
+
+6. GLOBAL PAGE LAYOUT
+
+7. SIDEBAR CONFIGURATION
+
+8. MAIN PAGE
+8.1 HEADER
+8.2 NAVIGATION
+8.3 NIVOSLIDER
+8.4 SHOWCASE
+8.5 MAIN PRODUCT LISTING
+8.6 FOOTER
+
+9. COLLECTION PAGES
+9.1 PAGES CONTENT
+9.2 BREADCRUMBS
+9.3 COLLECTION LISTING
+9.4 PAGINATION
+
+10. SIDEBAR WIDGETS
+10.1 LINKS LIST
+10.2 SIDEBAR PRODUCT LISTING
+
+11. SEARCH RESULTS PAGE
+
+12. PRODUCT PAGE
+12.1 PRODUCT IMAGES
+12.2 PRODUCT INFO
+12.3 PRODUCT PAGINATION
+12.4 RELATED PRODUCTS
+
+13. BLOG
+13.1 POSTS LISTING
+13.2 SINGLE POST
+
+14. CUSTOMER PAGES
+14.1 LOG IN
+14.2 ACCOUNT
+14.3 ADDRESSES
+14.4 ORDERS
+
+15. CART PAGE
+15.1 CART PRODUCTS
+15.2 GUEST CHECKOUT
+
+16. CONTACTS PAGE
+
+***********************************************************/
+
+
+
+/* 1200px ***************************************************************************/
+
+@media (min-width: 1200px) {
+
+
+
+}
+
+
+
+/* < 1200px ***************************************************************************/
+
+@media (max-width: 1199px) {
+
+/* 4.1 HEADINGS */
+.column_center .page_heading {padding: 10px 15px 12px 15px;font-size: 16px;}
+
+
+
+/* 5.3 BUTTONS */
+.btn-cart {height: auto;padding: 10px 15px;}
+.btn-cart i {display: none;}
+
+
+
+/* 8.1 HEADER */
+#logo {padding: 66px 0 0 0;}
+
+.header_cart {float: none;padding: 46px 0 0 0;text-align: right;}
+.header_cart a {display: inline-block;text-align: left;}
+
+.custom_header1 {padding: 40px 0 0 0;}
+
+
+
+/* 8.2 NAVIGATION */
+
+/* 8.3 NIVOSLIDER */
+.nivo-caption {padding: 0 100px;}
+.nivo-caption i {margin: 295px 0 0 0;}
+.nivo-caption h2 {padding: 110px 0 0 0;font-size: 90px;line-height: 1em;}
+.nivo-caption h3 {font-size: 90px;line-height: 1em;}
+.nivo-caption p {padding: 15px 0 0 10px;}
+
+
+
+/* 8.4 SHOWCASE */
+.custom_showcase a div {padding: 0 20px;}
+.custom_showcase h3 {padding: 49px 0 0 0;font-size: 45px;line-height: 1em;}
+.custom_showcase h4 {font-size: 35px;line-height: 1em;}
+
+
+
+/* 8.6 FOOTER */
+
+/* 8.5 MAIN PRODUCT LISTING */
+
+/* 10. SIDEBAR WIDGETS */
+.column .widget h3.widget_header {padding: 10px 15px 12px 15px;font-size: 16px;}
+
+
+
+/* 10.1 LINKS LIST */
+.column .widget ul.list li {padding: 10px 15px;}
+
+
+
+/* 10.2 SIDEBAR PRODUCT LISTING */
+.product_listing_sidebar .product {}
+
+.product_listing_sidebar .product_img {width: 100%;float: none;}
+.product_listing_sidebar .product_img a {padding: 15px;}
+
+.product_listing_sidebar .product_info {margin: 15px 0 0 0;}
+
+
+
+/* 12.2 PRODUCT INFO */
+.product_wrap #bx-pager a {width: 84px;}
+
+}
+
+
+
+/* < 980px ***************************************************************************/
+
+@media (max-width: 992px) {
+
+/* 8.1 HEADER */
+
+/* 8.2 NAVIGATION */
+#navigation.isStuck {position: relative !important;left: auto;right: auto;}
+.pseudoStickyBlock {display: none !important;}
+
+#navigation .customselect_wrap {width: 50%;float: left;padding: 0 15px 0 0;}
+#navigation .customselect_wrap select.menu_mobile {width: 100% !important;height: 100% !important;display: block;background: #222427;color: #ffffff;}
+#navigation .customselect_wrap .customSelect {width: 100%;}
+#navigation .customselect_wrap .customSelectInner {width: 100% !important;height: 50px !important;display: block !important;padding: 0 15px;background: #222427;font-size: 14px;line-height: 49px;color: #ffffff;text-transform: uppercase;}
+#navigation .customselect_wrap i.fa {font-size: 16px;position: absolute;right: 28px;top: 18px;z-index: 0;}
+
+
+.header_search {width: 49.9%;padding: 0 0 0 15px;}
+
+
+
+/* 8.3 NIVOSLIDER */
+.nivo-caption {padding: 0 80px;}
+.nivo-caption i {margin: 207px 0 0 0;}
+.nivo-caption h2 {padding: 70px 0 0 0;font-size: 70px;}
+.nivo-caption h3 {font-size: 70px;}
+.nivo-caption p {padding: 15px 0 0 5px;}
+
+
+
+/* 8.4 SHOWCASE */
+.custom_showcase a div {padding: 0 15px;}
+.custom_showcase h3 {padding: 37px 0 0 0;font-size: 35px;;}
+.custom_showcase h4 {font-size: 25px;}
+
+
+
+/* 8.6 FOOTER */
+
+/* 8.5 MAIN PRODUCT LISTING */
+
+/* 10.2 SIDEBAR PRODUCT LISTING */
+
+/* 12.2 PRODUCT INFO */
+.product_wrap #bx-pager a {width: 61px;}
+
+}
+
+
+
+/* < 767px ***************************************************************************/
+
+@media (max-width: 767px) {
+
+/* 6. GLOBAL PAGE LAYOUT */
+.container {padding:0 15px;}
+
+.column_left,
+.column_right,
+.column_center,
+#main_content {margin-left: 0 !important;margin-right: 0 !important;}
+
+
+
+/* 8.1 HEADER */
+#header {padding: 0 0 25px 0;}
+
+#logo {padding: 25px 0 0 0;text-align: center;}
+
+.header_cart {padding: 25px 0 0 0;text-align: center;}
+.header_cart a {width: 100%;display: block;}
+
+.custom_header1 {padding: 25px 0 0 0;text-align: center;}
+
+
+
+/* 8.2 NAVIGATION */
+
+/* 8.3 NIVOSLIDER */
+.slider_wrap {margin: 0 0 15px 0;}
+  
+.nivo-caption {top: 50%;}
+.nivo-caption i {display: none;}
+.nivo-caption h2 {margin: -45px 0 0 0;padding: 0;font-size: 45px;}
+.nivo-caption h3 {font-size: 45px;}
+.nivo-caption p {display: none;}
+
+
+
+/* 8.4 SHOWCASE */
+.custom_showcase a div {padding: 0 15px;top: 50%;}
+.custom_showcase h3 {margin: -20px 0 0 0;padding: 0;font-size: 25px;}
+.custom_showcase h4 {font-size: 18px;}
+
+
+
+/* 8.6 FOOTER */
+.custom_footer h3 {padding: 25px 0 0 0;}
+.copyright {margin: 30px 0 0 0;}
+
+
+
+/* 8.5 MAIN PRODUCT LISTING */
+.product_listing_main ~ .product_listing_main {margin: 0;padding: 0;border: none;}
+
+.product_listing_main .product {margin: 15px 0 0 0;}
+.product_listing_main .product > div {overflow: hidden;padding: 0 0 15px 0;border-bottom: 1px solid #23262a;}
+
+.product_listing_main .product_img {width: 100px;float: left;}
+.product_listing_main .product_img a {padding: 0;}
+
+.product_listing_main .product_info {margin: 0 0 0 115px;}
+
+.product_listing_main .product_name {margin: -4px 0 0 0;padding: 0;}
+.product_listing_main .product_price {}
+.product_listing_main form {padding: 10px 0 0 0;}
+
+
+
+/* 10.2 SIDEBAR PRODUCT LISTING */
+.column .product {margin: 15px 0 0 0;}
+.column .product > div {overflow: hidden;}
+
+.column .product .product_img {width: 100px;float: left;}
+.column .product .product_img a {padding: 0;}
+
+.column .product .product_info {margin: 0 0 0 115px;}
+
+.column .product .product_name {}
+
+.column .product .product_price {}
+
+
+
+/* 12.1 PRODUCT IMAGES */
+.product_image-additioanl {width: 100% !important;text-align: center;}
+
+.product_wrap #bx-pager a {width: 84px;display: inline-block;float: none;margin: 15px 0 0 0;}
+.product_wrap #bx-pager a ~ a {margin: 15px 0 0 15px;}
+
+
+
+/* 12.2 PRODUCT INFO */
+.product_wrap .product_name {margin: 0;padding: 30px 0 0 0;}
+
+
+
+/* 15. CART PAGE */
+.cart_buttons {text-align: center;}
+.cart_buttons span.or {display: block;margin: 5px 0;}
+
+}
+
+
+
+/* < 640px ***************************************************************************/
+
+@media (max-width: 640px) {
+
+/* 8.2 NAVIGATION */
+#navigation nav {padding: 15px 0;}
+#navigation .customselect_wrap {width: 100%;float: none;padding: 0;}
+#navigation .customselect_wrap i.fa {right: 15px;}
+
+.header_search {width: 100%;float: none;margin: 15px 0 0 0;padding: 0;}
+
+
+}
+
+
+
+/* < 480px ***************************************************************************/
+
+@media (max-width: 480px) {
+
+/* 8.1 HEADER */
+.header_user li.checkout {display: none;}
+
+
+
+/* 8.3 NIVOSLIDER */
+.nivo-caption {display: none !important;}
+
+
+
+/* 8.4 SHOWCASE */
+.custom_showcase a div {}
+.custom_showcase h3 {margin: -14px 0 0 0;padding: 0;font-size: 18px;}
+.custom_showcase h4 {font-size: 14px;}
+
+
+
+/* 8.5 MAIN PRODUCT LISTING */
+.product_listing_main .product_desc {display: none;}
+
+
+}
+
+
+
+/* < 370px ***************************************************************************/
+
+@media (max-width: 370px) {
+
+/* 8.4 SHOWCASE */
+#showcase {}
+#showcase .row {margin: 0;}
+.custom_showcase {width: 100%;float: none;padding: 0;}
+.custom_showcase ~ .custom_showcase {margin: 15px 0 0 0;}
+
+.custom_showcase a div {padding: 0 20px 0 40px;}
+.custom_showcase h3 {margin: -40px 0 0 0;padding: 0;font-size: 45px;}
+.custom_showcase h4 {font-size: 35px;}
+
+}

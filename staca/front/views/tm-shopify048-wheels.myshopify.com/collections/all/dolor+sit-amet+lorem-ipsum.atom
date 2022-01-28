@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://tm-shopify048-wheels.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://tm-shopify048-wheels.myshopify.com/collections/all/dolor.atom"/>
+  <title>Wheels &amp; Tyres</title>
+  <updated>2014-05-21T07:27:40-04:00</updated>
+  <author>
+    <name>Wheels &amp; Tyres</name>
+  </author>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640887</id>
+    <published>2014-05-21T07:27:40-04:00</published>
+    <updated>2014-05-21T07:27:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/goodyear-eagle-ultragrip"/>
+    <title>Goodyear Eagle UltraGrip</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/goodyear_eagle_ultragrip_1.png?v=1400671666" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            459.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our assortment can satisfy any client's whim because it's literally unlimited. You must remember that we have a great number of different promos so you can get a pretty good discount in our store. We care about our customers and our main purpose is to satisfy their demands. Besides don't forget that our 24/7 support system will help you solve your problems anytime.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640887</id>
+      <title>Default</title>
+      <s:price currency="USD">459.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640871</id>
+    <published>2014-05-21T07:27:35-04:00</published>
+    <updated>2014-05-21T07:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/fuel-04"/>
+    <title>Fuel 04</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/fuel_04_1.png?v=1400671660" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            315.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As you understand the products of our store are a unique combination of original design, reasonable price and undoubted reliability. Our assortment can satisfy any client's whim because it's literally unlimited. You must remember that we have a great number of different promos so you can get a pretty good discount in our store. We are proud to present our wonderful choice of wheels and tires.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640871</id>
+      <title>Default</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640863</id>
+    <published>2014-05-21T07:27:29-04:00</published>
+    <updated>2014-05-21T07:27:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/fondmetal-9x"/>
+    <title>Fondmetal 9X</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/fondmetal_9x_1.png?v=1400671654" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We care about the durability of our products and we are sure that it is perfect. As you understand the products of our store are a unique combination of original design, reasonable price and undoubted reliability. Our assortment can satisfy any client's whim because it's literally unlimited. Besides don't forget that our 24/7 support system will help you solve your problems anytime.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640863</id>
+      <title>Default</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640855</id>
+    <published>2014-05-21T07:27:23-04:00</published>
+    <updated>2014-05-21T07:27:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/fondmetal-7600"/>
+    <title>Fondmetal 7600</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/fondmetal_7600_1.png?v=1400671649" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The interesting design is very important thing in our sphere and we are trying to stay in touch with the latest fashion trends. We care about the durability of our products and we are sure that it is perfect. As you understand the products of our store are a unique combination of original design, reasonable price and undoubted reliability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640855</id>
+      <title>Default</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640851</id>
+    <published>2014-05-21T07:27:17-04:00</published>
+    <updated>2014-05-21T07:27:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/fondmetal-7500"/>
+    <title>Fondmetal 7500</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/fondmetal_7500_1.png?v=1400671643" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We guarantee the premium quality and fair prices of our goods. The interesting design is very important thing in our sphere and we are trying to stay in touch with the latest fashion trends. We care about the durability of our products and we are sure that it is perfect. You must remember that we have a great number of different promos so you can get a pretty good discount in our store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640851</id>
+      <title>Default</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640843</id>
+    <published>2014-05-21T07:27:11-04:00</published>
+    <updated>2014-05-21T07:27:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/fondmetal-7300"/>
+    <title>Fondmetal 7300</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/fondmetal_7300_1.png?v=1400671637" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Accessories<br />
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our delivery and shipping system is always ready to comply with your order. Nowadays we have great opportunities to satisfy our demands with the high quality products. We are proud to present our wonderful choice of wheels and tires. Without a doubt we are the leading company in this sphere. We care about the durability of our products and we are sure that it is perfect.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640843</id>
+      <title>Default</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640823</id>
+    <published>2014-05-21T07:27:05-04:00</published>
+    <updated>2014-05-21T07:27:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/fondmetal-6200"/>
+    <title>Fondmetal 6200</title>
+    <s:type>Tyres</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/fondmetal_6200_1.png?v=1400671631" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Tyres<br />
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Besides don't forget that our 24/7 support system will help you solve your problems anytime. Our delivery and shipping system is always ready to comply with your order. Nowadays we have great opportunities to satisfy our demands with the high quality products. We are proud to present our wonderful choice of wheels and tires. Without a doubt we are the leading company in this sphere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640823</id>
+      <title>Default</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640807</id>
+    <published>2014-05-21T07:26:58-04:00</published>
+    <updated>2014-05-21T07:26:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/fondmetal-5700"/>
+    <title>Fondmetal 5700</title>
+    <s:type>Tyres</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/fondmetal_5700_1.png?v=1400671625" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Tyres<br />
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We care about our customers and our main purpose is to satisfy their demands. Besides don't forget that our 24/7 support system will help you solve your problems anytime. Our delivery and shipping system is always ready to comply with your order. Nowadays we have great opportunities to satisfy our demands with the high quality products. Without a doubt we are the leading company in this sphere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640807</id>
+      <title>Default</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640799</id>
+    <published>2014-05-21T07:26:53-04:00</published>
+    <updated>2014-05-21T07:26:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/excelsior-stahl-sport-17-e55-a1"/>
+    <title>Excelsior Stahl-Sport 17-E55-A1</title>
+    <s:type>Tyres</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/excelsior_stahl-sport_17-e55-a1_1.png?v=1400671618" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Tyres<br />
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You must remember that we have a great number of different promos so you can get a pretty good discount in our store. We care about our customers and our main purpose is to satisfy their demands. Besides don't forget that our 24/7 support system will help you solve your problems anytime. Our delivery and shipping system is always ready to comply with your order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640799</id>
+      <title>Default</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640795</id>
+    <published>2014-05-21T07:26:48-04:00</published>
+    <updated>2014-05-21T07:26:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/dunlop-sp-sport-maxx-tt"/>
+    <title>Dunlop SP Sport Maxx TT</title>
+    <s:type>Tyres</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/dunlop_sp_sport_maxx_tt_1.png?v=1400671613" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Tyres<br />
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our assortment can satisfy any client's whim because it's literally unlimited. You must remember that we have a great number of different promos so you can get a pretty good discount in our store. We care about our customers and our main purpose is to satisfy their demands. Besides don't forget that our 24/7 support system will help you solve your problems anytime.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640795</id>
+      <title>Default</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640783</id>
+    <published>2014-05-21T07:26:42-04:00</published>
+    <updated>2014-05-21T07:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/digital-tire-pressure-monitor"/>
+    <title>Digital Tire Pressure Monitor</title>
+    <s:type>Tyres</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/digital_tire_pressure_monitor_1.png?v=1400671608" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Tyres<br />
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As you understand the products of our store are a unique combination of original design, reasonable price and undoubted reliability. Our assortment can satisfy any client's whim because it's literally unlimited. You must remember that we have a great number of different promos so you can get a pretty good discount in our store. We are proud to present our wonderful choice of wheels and tires.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sit amet</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640783</id>
+      <title>Default</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640775</id>
+    <published>2014-05-21T07:26:36-04:00</published>
+    <updated>2014-05-21T07:26:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/bridgestone-turanza-er300-ecopia"/>
+    <title>Bridgestone Turanza ER300 Ecopia</title>
+    <s:type>Tyres</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/bridgestone_turanza_er300_ecopia_1.png?v=1400671602" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Tyres<br />
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We care about the durability of our products and we are sure that it is perfect. As you understand the products of our store are a unique combination of original design, reasonable price and undoubted reliability. Our assortment can satisfy any client's whim because it's literally unlimited. Besides don't forget that our 24/7 support system will help you solve your problems anytime.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640775</id>
+      <title>Default</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640759</id>
+    <published>2014-05-21T07:26:30-04:00</published>
+    <updated>2014-05-21T07:26:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/bridgestone-turanza-er30"/>
+    <title>Bridgestone Turanza ER30</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/bridgestone_turanza_er30_1.png?v=1400671596" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Wheels<br />
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The interesting design is very important thing in our sphere and we are trying to stay in touch with the latest fashion trends. We care about the durability of our products and we are sure that it is perfect. As you understand the products of our store are a unique combination of original design, reasonable price and undoubted reliability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640759</id>
+      <title>Default</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640743</id>
+    <published>2014-05-21T07:26:25-04:00</published>
+    <updated>2014-05-21T07:26:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/bridgestone-potenza-re050a"/>
+    <title>Bridgestone Potenza RE050A</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/bridgestone_potenza_re050a_1.png?v=1400671590" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Wheels<br />
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We guarantee the premium quality and fair prices of our goods. The interesting design is very important thing in our sphere and we are trying to stay in touch with the latest fashion trends. We care about the durability of our products and we are sure that it is perfect. You must remember that we have a great number of different promos so you can get a pretty good discount in our store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dolor</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640743</id>
+      <title>Default</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640699</id>
+    <published>2014-05-21T07:26:19-04:00</published>
+    <updated>2014-05-21T07:26:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/ats-dtm-competition"/>
+    <title>ATS DTM Competition</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/ats_dtm_competition_1.png?v=1400671585" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Wheels<br />
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our company is the pioneer of this business because we provide a great number of new technologies concerning design solutions and some technological specialties. We guarantee the premium quality and fair prices of our goods. The interesting design is very important thing in our sphere and we are trying to stay in touch with the latest fashion trends.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640699</id>
+      <title>Default</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640643</id>
+    <published>2014-05-21T07:26:13-04:00</published>
+    <updated>2014-05-21T07:26:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/ats-cup"/>
+    <title>ATS Cup</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/ats_cup_1.png?v=1400671579" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Wheels<br />
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Without a doubt we are the leading company in this sphere. Our company is the pioneer of this business because we provide a great number of new technologies concerning design solutions and some technological specialties. We guarantee the premium quality and fair prices of our goods. Besides don't forget that our 24/7 support system will help you solve your problems anytime.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640643</id>
+      <title>Default</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640599</id>
+    <published>2014-05-21T07:26:07-04:00</published>
+    <updated>2014-05-21T07:26:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/ats-classic"/>
+    <title>ATS Classic</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/ats_classic_1.png?v=1400671573" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Wheels<br />
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We are proud to present our wonderful choice of wheels and tires. Without a doubt we are the leading company in this sphere. Our company is the pioneer of this business because we provide a great number of new technologies concerning design solutions and some technological specialties. We guarantee the premium quality and fair prices of our goods.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640599</id>
+      <title>Default</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://tm-shopify048-wheels.myshopify.com/products/298640555</id>
+    <published>2014-05-21T07:26:01-04:00</published>
+    <updated>2014-05-21T07:26:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://tm-shopify048-wheels.myshopify.com/products/adrenalin-potenza-re001"/>
+    <title>Adrenalin Potenza RE001</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>Wheels &amp; Tyres</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0508/6409/products/adrenalin_potenza_re001_1.png?v=1400671567" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wheels &amp; Tyres<br />
+        <strong>Type: </strong>Wheels<br />
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nowadays we have great opportunities to satisfy our demands with the high quality products. We are proud to present our wonderful choice of wheels and tires. Without a doubt we are the leading company in this sphere. Our company is the pioneer of this business because we provide a great number of new technologies concerning design solutions and some technological specialties.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lorem ipsum</s:tag>
+    <s:variant>
+      <id>https://tm-shopify048-wheels.myshopify.com/products/298640555</id>
+      <title>Default</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

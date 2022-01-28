@@ -1,0 +1,17 @@
+.zina{
+    font-size: 17px;
+}
+
+.zina_titre{
+    color: hsl(44, 100%, 50%);
+    font-size: 20px;
+    background-color: darkgray;
+}
+.best{
+    font-size:20px;
+    color: green;
+}
+h4{
+    text-decoration-line: underline;
+    font-size: 58px;
+}
